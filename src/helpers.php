@@ -1,6 +1,6 @@
 <?php
 
-namespace MarketingRelevance;
+namespace MarketingRelevance\PhpStyles;
 
 use PhpCsFixer\Config;
 use PhpCsFixer\Finder;
